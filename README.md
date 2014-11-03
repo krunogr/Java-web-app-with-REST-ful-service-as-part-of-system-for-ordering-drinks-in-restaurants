@@ -31,5 +31,5 @@ User without admin right can:
 
 ![Alt text](https://raw.githubusercontent.com/krunogr/PHP-web-app-as-a-part-of-a-system-for-ordering-drinks-in-restaurants/master/assets/screenshots/user_side.JPG "User site of app")
 
-![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/REST.JPG")
+![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/REST.JPG "REST(ful) web service")
 
