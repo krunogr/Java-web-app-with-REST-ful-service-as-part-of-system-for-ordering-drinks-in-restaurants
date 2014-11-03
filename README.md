@@ -33,7 +33,7 @@ User without admin right can:
 ![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/reviewOrders.JPG "User site of app")
 
 ### REST(ful) web service
-Web service in both direction. 
+ - Web service in both direction. <br> 
 GET: places (restourants), articles, comments
 POST: comments, orders
 
