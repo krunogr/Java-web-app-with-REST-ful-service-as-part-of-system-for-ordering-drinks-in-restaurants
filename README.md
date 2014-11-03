@@ -34,7 +34,7 @@ User without admin right can:
 
 ### REST(ful) web service
  - Web service in both direction. <br> 
-GET: places (restourants), articles, comments
+GET: places (restourants), articles, comments  <br> 
 POST: comments, orders
 
 ![Alt text](https://raw.githubusercontent.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/master/mNarudzbe_web/web/screenshots/REST.JPG "REST(ful) web service")
