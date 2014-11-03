@@ -16,7 +16,7 @@ User with admin right can:
  - delete a user
  - see all orders for every user. Searching by username and by date of orders.
 
-![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/usersReview.JPG "Admin site of app")
+![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/addUser.JPG "Admin site of app")
 
 ![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/reviewOrders.JPG "Admin site of app")
 
@@ -32,5 +32,5 @@ User without admin right can:
 
 ![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/reviewOrders.JPG "User site of app")
 
-![Alt text](ava-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants / mNarudzbe_web / web / screenshots / REST.JPG "REST(ful) web service")
+![Alt text](https://raw.githubusercontent.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/master/mNarudzbe_web/web/screenshots/REST.JPG "REST(ful) web service")
 
