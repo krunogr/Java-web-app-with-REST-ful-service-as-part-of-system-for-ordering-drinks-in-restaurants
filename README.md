@@ -11,26 +11,28 @@ First, the user has to make login (first image). Afterward login app checks in M
 
 ### Admin site of app
 User with admin right can:
- - see all users. Searching is possible by username or by type
- - add a new user (with or without admin right)
+ - see all users. Searching is possible by username or by type (2th image)
+ - add a new user - with or without admin right (3th image)
  - delete a user
  - see all orders for every user. Searching by username and by date of orders.
 
-![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/addUser.JPG "Admin site of app")
+![Alt text](https://raw.githubusercontent.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/master/mNarudzbe_web/web/screenshots/usersReview.JPG "Admin site of app")
 
-![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/reviewOrders.JPG "Admin site of app")
+![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/addUser.JPG "Admin site of app")
 
 
 ### User site of app
 User without admin right can:
  - check a new orders. When user select a order on radio button and click Serve the order, the order goes directly to served    orders and it is not anymore in new orders.
- - see all orders with all informations (but not for another users)
- - see all articles (but not for another users). Searching by ID of article.
+ - see all orders with all informations, but not for other users ( 4th image)
+ - see all articles, but not for other users. Searching by ID of article.
  - add a new article.
  - remove an article.
  - add event.
 
 ![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/reviewOrders.JPG "User site of app")
+
+### REST(ful) web service
 
 ![Alt text](https://raw.githubusercontent.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/master/mNarudzbe_web/web/screenshots/REST.JPG "REST(ful) web service")
 
