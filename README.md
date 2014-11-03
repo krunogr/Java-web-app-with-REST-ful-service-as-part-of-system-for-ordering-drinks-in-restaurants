@@ -18,7 +18,6 @@ User with admin right can:
 
 ![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/usersReview.JPG "Admin site of app")
 
-![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/addUser.JPG "Admin site of app")
 
 ### User site of app
 User without admin right can:
@@ -29,7 +28,7 @@ User without admin right can:
  - remove an article.
  - add event.
 
-![Alt text](https://raw.githubusercontent.com/krunogr/PHP-web-app-as-a-part-of-a-system-for-ordering-drinks-in-restaurants/master/assets/screenshots/user_side.JPG "User site of app")
+![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/reviewOrders.JPG "User site of app")
 
-![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/REST.JPG "REST(ful) web service")
+![Alt text](ava-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants / mNarudzbe_web / web / screenshots / REST.JPG "REST(ful) web service")
 
