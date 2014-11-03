@@ -18,6 +18,8 @@ User with admin right can:
 
 ![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/usersReview.JPG "Admin site of app")
 
+![Alt text](https://github.com/krunogr/Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-restaurants/blob/master/mNarudzbe_web/web/screenshots/reviewOrders.JPG "Admin site of app")
+
 
 ### User site of app
 User without admin right can:
