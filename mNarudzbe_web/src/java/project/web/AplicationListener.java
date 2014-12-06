@@ -6,7 +6,7 @@ import javax.servlet.ServletContextListener;
 
 public class AplicationListener implements ServletContextListener {
 
-//    Podaci za korištenje lokalne baze podataka:
+//    Podaci za korištenje lokalne baze podataka
 //    public static String URL_FOR_DB = "jdbc:mysql://127.0.0.1/mnarudzbe";
 //    public static String USERNAME_FOR_DB = "kruno";
 //    public static String PASSWORD_FOR_DB = "kruno";
