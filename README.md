@@ -3,7 +3,7 @@ Java-web-app-with-REST-ful-service-as-part-of-system-for-ordering-drinks-in-rest
 
 Java web app with Android app makes system for ordering drinks in restourants. For REST(ful) service uses Jersey Framework. The same app without web service is made in PHP as well. Technologies: Java, HTML, CSS, SQL
 
-You can test app on http://mnarudzbe.mnarudzbe.eu.cloudbees.net/ <br>
+You can test app on http://mnarudzbejava-krunogr.rhcloud.com/ <br>
 users for test: <br>
 user with admin right: user:admin, password:admin <br>
 user without admin right: user:macola, password:macola <br>
