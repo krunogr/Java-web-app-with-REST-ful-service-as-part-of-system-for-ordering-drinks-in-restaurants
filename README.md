@@ -5,8 +5,8 @@ Java web app with Android app makes system for ordering drinks in restourants. F
 
 You can test app on http://mnarudzbejava-krunogr.rhcloud.com/ <br>
 users for test: <br>
-user with admin right: user:admin, password:admin <br>
-user without admin right: user:macola, password:macola <br>
+user with admin rights: user:admin, password:admin <br>
+user without admin rights: user:macola, password:macola <br>
 REMARK: app is uploaded on free hosting so when you click on link, first you have to wait for 30 seconds for activating the server. If is not working then free hosting is expired.
 
 First, the user has to make login (first image). Afterward login app checks in MySQL database whether user has administrator rights or not. If user has admin rights then app will redirect him to admin part (second image) otherwise user will be redirected to user part (third image).
